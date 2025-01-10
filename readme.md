@@ -1,3 +1,5 @@
+## Table of Contents
+### Chapters
 Part 1: React Hooks and Micro State Management
 Chapter 1: What Is Micro State Management with React Hooks?
 Part 2: Basic Approaches to the Global State
